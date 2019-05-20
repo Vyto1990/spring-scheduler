@@ -1,4 +1,4 @@
-package com.victor.atomatictasks;
+package com.victor.springscheduler;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class AtomatictasksApplicationTests {
+public class SpringSchedulerApplicationTests {
 
 	@Test
 	public void contextLoads() {
